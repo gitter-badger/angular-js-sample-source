@@ -12,18 +12,21 @@ create a another folder for development code in source folder (dev)
 
 
 ##Dependency managers
-
-<b>npm init</b>
+```bash
+npm init
+```
 to create a package.json file
-
-<b>bower init</b>	
+```bash
+bower init
+```
 to create a bower.json file
 
 
 
 ##Build scripts
-
-<b>npm install grunt --save-dev</b>		
+```bash
+npm install grunt --save-dev
+```
 to install local grunt
 
 create <b>gruntfile.js</b> file and add the following content
@@ -35,8 +38,9 @@ create <b>gruntfile.js</b> file and add the following content
 		});
   };
 ```
-
-<b>npm install grunt-angular-builder --save-dev</b>
+```bash
+npm install grunt-angular-builder --save-dev
+```
 to install angular-builder to grunt
 
 ```javascript
