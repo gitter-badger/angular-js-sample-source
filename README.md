@@ -13,9 +13,7 @@ create a another folder for development code in source folder (dev)
 
 ##Dependency managers
 
-``` bash 
-  npm init 
-```
+<b>npm init</b>
 to create a package.json file
 
 <b>bower init</b>	
