@@ -1,5 +1,7 @@
 # Angular-Testing
 
+[![Join the chat at https://gitter.im/dinukadesilva/angular-js-sample-source](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dinukadesilva/angular-js-sample-source?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ##Folder Structure
 
 Create a folder for the project
